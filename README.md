@@ -1,0 +1,1 @@
+Calculates a rough approximation of a sphere's volume by plotting 50000000 random points within a cube and checking if they are within the bounds of the sphere. Uses lcg_64 temper for seed randomness and multithreading for speed and efficiency.
